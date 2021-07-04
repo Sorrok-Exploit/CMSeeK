@@ -202,7 +202,4 @@ Please make sure you have the following info attached when opening a new issue:
 ## License:
 
 CMSeeK is licensed under [GNU General Public License v3.0](https://github.com/Tuhinshubhra/CMSeeK/blob/master/LICENSE)
-
-## Follow Me @r3dhax0r:
-
-[Twitter](https://twitter.com/r3dhax0r)   
+   
