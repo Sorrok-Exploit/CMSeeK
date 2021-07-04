@@ -85,14 +85,14 @@ def banner (txt):
     global cmseek_version
     print(bold + fgreen + """
 {1} {5}___ _  _ {1}__{5}__ ____ {1}____{5} _  {1}_{5}
-|    |{1}\/{5}| {1}[{5}__  {1}|{5}___ |{1}___{5} |{1}_{5}/  {0}by {4}@r3dhax0r{5}
-{1}|{5}_{1}__{5} |  | ___{1}|{5} |{1}___{5} {1}|{5}___ {1}|{5} \{1}_{5} {2}Version {3}{1} K-RONA
+|    |{1}\/{5}| {1}[{5}__  {1}|{5}___ |{1}___{5} |{1}_{5}/  {0}by {4}@N-24{5}
+{1}|{5}_{1}__{5} |  | ___{1}|{5} |{1}___{5} {1}|{5}___ {1}|{5} \{1}_{5} {2}Version {3}{1} SorroK-ExpLoiT
 """.format(orange, lblue, yellow, cmseek_version, red, white))
     if txt != "":
         print(whitebg + black + bold)
         print(" [+]  " + txt + "  [+] " + cln)
     else:
-        print(cln + bold + lbluebg + black + " Author: " + cln + bold + " https://twitter.com/r3dhax0r" + blackbg + white + "\n GitHub: " + cln + bold + " https://github.com/Tuhinshubhra \n" + cln + '\n')
+        print(cln + bold + lbluebg + black + " Author: " + cln + bold + " https://t.me/nocheatnogamee" + blackbg + white + "\n GitHub: " + cln + bold + " https://github.com/Tuhinshubhra \n" + cln + '\n')
     print(cln)
     return
 
@@ -102,7 +102,7 @@ def help():
     """
 CMSeeK Version {0}
 Github: {4}
-Coded By:{1}{3} @r3dhax0r {2}
+Coded By:{1}{3} @N-24 {2}
 
 USAGE:
        python3 cmseek.py (for guided scanning) OR
